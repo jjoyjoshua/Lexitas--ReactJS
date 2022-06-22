@@ -1,0 +1,61 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    overflow-x: hidden;
+    background-color: #C7C7C7;
+}
+
+/* header section */
+.vr-class{
+    color: #444444;
+    height: 55px;
+    width: 2px;
+}
+.btn-color{
+    background-color: #e57200 !important;
+}
+
+/* on active styling */
+.activelink{
+    background-color: #e57200 ! important;
+}
+.active{
+    background-color: #FFC107;
+    color: white !important;
+}
+/* table section */
+thead{
+    background-color: rgba(255, 166, 0, 0.555);
+    color: #666;
+}
+
+.rounded-pill{
+    width: 115px;
+    height: 35px;
+    font-size: 15px;
+}
+
+.fa-solid {
+    color: #6b6b6b;
+}
+
+.delayed{
+    background-color:#f7022a;
+}
+
+.completed{
+    background-color: green ;
+}
+
+.not{
+    background-color: #444444;
+}
+
+/* gantt chart styling */
+.gantt-chart{
+    background-color: #f0f0f0;
+    height: 70vh;
+}
+.p1{
+    font-size: 14px;
+    line-height: 18px;
+}
